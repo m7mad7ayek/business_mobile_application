@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "127433597844",
+    "project_id": "wedeliver-production",
+    "storage_bucket": "wedeliver-production.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127433597844:android:b5c098046bfb577a696581",
+        "android_client_info": {
+          "package_name": "com.wesync.wedeliver_business"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127433597844-5cjocn4fs1bc9nbl38clibiqbn72rh1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7zkw_iEIfYH2PQ_PPFbbnju-y27DIq8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127433597844-5cjocn4fs1bc9nbl38clibiqbn72rh1s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "127433597844-vudt7kna8f4u63m8dnrdk23289vfvgmr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wesync.wedeliverBusiness"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
